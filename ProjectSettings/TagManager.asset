@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Zombie
+  - SpikyFloor
+  - Spikes
+  - Lava
+  - Swift
+  - Health
+  - SlingShot
+  - playerLaser
+  - enemy
+  - Spider Web
+  - enemyLaser
+  - asteroidShip
+  - stickyFloor
+  - Stuck
+  - template
+  - shield
+  - Astroid
+  - AB
+  - shootingShip
+  - Coin
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - platform
+  - Spider
+  - Background
+  - Lava
+  - Zombie
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1607182287
+    locked: 0
+  - name: BrickBackground
+    uniqueID: 2988203001
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: platform
+    uniqueID: 4109152233
+    locked: 0
+  - name: Wall
+    uniqueID: 753110495
+    locked: 0
+  - name: Lava
+    uniqueID: 2177817687
+    locked: 0
